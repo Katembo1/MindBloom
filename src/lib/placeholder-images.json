@@ -1,3 +1,34 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "meditation-anxiety",
+      "description": "A calm, serene landscape to represent anxiety relief meditation.",
+      "imageUrl": "https://picsum.photos/seed/anxiety/600/400",
+      "imageHint": "serene landscape"
+    },
+    {
+      "id": "meditation-focus",
+      "description": "An image representing focus, like a single point of light or a clear path.",
+      "imageUrl": "https://picsum.photos/seed/focus/600/400",
+      "imageHint": "clear path"
+    },
+    {
+      "id": "meditation-sleep",
+      "description": "A dreamy, dark image of a night sky for sleep meditation.",
+      "imageUrl": "https://picsum.photos/seed/sleep/600/400",
+      "imageHint": "night sky"
+    },
+    {
+      "id": "meditation-mindfulness",
+      "description": "A natural scene, like a leaf with water droplets, for mindfulness.",
+      "imageUrl": "https://picsum.photos/seed/mindfulness/600/400",
+      "imageHint": "nature detail"
+    },
+    {
+      "id": "journal-entry",
+      "description": "An abstract image representing thoughts and feelings for a journal entry.",
+      "imageUrl": "https://picsum.photos/seed/journal1/300/200",
+      "imageHint": "abstract texture"
+    }
+  ]
 }
